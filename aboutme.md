@@ -1,6 +1,6 @@
 ```text
 hi, i'm danny but i also go by "bliv". i started programming in my freshman year of 
-high school  as a hobby and an interest of study but have never really touched on 
+high school as a hobby and an interest of study but have never really touched on 
 github until recent despite owning a github account for years...
 
 i like:
@@ -10,12 +10,11 @@ i like:
   - computational theory
   - set theory
   - astrophysics & astronomy
-  - niko from oneshot
-  - maimai, taiko & pop'n
+  - rhythm arcade games: maimai, taiko, pop'n
 
 i dislike:
   - 鸭肉 (ya rou)
-
+  - having adhd & asperger's !!
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣀⣀⠀⠀⣀⡠⠴⠒⠚⠉⠉⠓⠒⠦⣄⣶⠒⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡷⢬⣉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠠⡌⠻⣧⢻⣧⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
