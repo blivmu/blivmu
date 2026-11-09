@@ -11,6 +11,7 @@ i like:
   - set theory
   - astrophysics & astronomy
   - niko from oneshot
+  - maimai, taiko & pop'n
 
 i dislike:
   - 鸭肉 (ya rou)
