@@ -1,5 +1,5 @@
 ```text
-i'm danny but i also go by "bliv". i started programming in my freshman year of high school as a hobby and an interest of study but have never really touched on github until recent despite owning a github account for years. 
+hi, i'm danny but i also go by "bliv". i started programming in my freshman year of high school as a hobby and an interest of study but have never really touched on github until recent despite owning a github account for years. 
 
 i like:
   - solving logic problems (the whole reason i began programming in the first place)
