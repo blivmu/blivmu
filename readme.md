@@ -1,20 +1,20 @@
 ```text
 hi, i'm danny but i also go by "bliv". i started programming in my freshman year of 
 high school as a hobby and an interest of study but have never really touched on 
-github until recent despite owning a github account for years...
+github until recent despite owning this account for years...
 
 i like:
   - solving logic problems (the whole reason i began programming in the first place)
-  - systems programming
+  - systems & low-level programming
   - robotics & mechatronics
-  - computational theory
+  - computational physics
   - set theory
   - astrophysics & astronomy
   - rhythm arcade games: maimai, taiko, pop'n
 
 i dislike:
   - 鸭肉 (ya rou)
-  - having adhd & asperger's !!
+  - having adhd & asperger's
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣀⣀⠀⠀⣀⡠⠴⠒⠚⠉⠉⠓⠒⠦⣄⣶⠒⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡷⢬⣉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠠⡌⠻⣧⢻⣧⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
