@@ -3,7 +3,7 @@ hi, i'm danny but i also go by "bliv"
 
 i like:
   - logic puzzles
-  - robotics
+  - robotics & circuitry
   - set theory
   - astrophysics & astronomy
   - rhythm arcade games: maimai, taiko, pop'n
